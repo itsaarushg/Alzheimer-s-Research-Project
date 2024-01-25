@@ -4,7 +4,9 @@
 Using image classification models (CNN's), we will identify Alzheimer's disease and detect the severity of the disease.
 
 ## Authors
-Aarush Gupta, Shaunik Musukula, Alan Kim
+- Aarush Gupta [@itsaarushg](https://github.com/itsaarushg)
+- Shaunik Musukula [@shaunikm](https://github.com/shaunikm)
+- Alan Kim
 
 
 # Problem Definition
